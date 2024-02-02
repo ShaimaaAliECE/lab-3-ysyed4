@@ -1,0 +1,7 @@
+/Users/yousefali/Documents/SE2250B/lab-3-ysyed4-main/Lab3App/bin/Debug/Lab3App.exe.config
+/Users/yousefali/Documents/SE2250B/lab-3-ysyed4-main/Lab3App/bin/Debug/Lab3App.exe
+/Users/yousefali/Documents/SE2250B/lab-3-ysyed4-main/Lab3App/bin/Debug/Lab3App.pdb
+/Users/yousefali/Documents/SE2250B/lab-3-ysyed4-main/Lab3App/obj/Debug/Lab3App.csproj.AssemblyReference.cache
+/Users/yousefali/Documents/SE2250B/lab-3-ysyed4-main/Lab3App/obj/Debug/Lab3App.csproj.CoreCompileInputs.cache
+/Users/yousefali/Documents/SE2250B/lab-3-ysyed4-main/Lab3App/obj/Debug/Lab3App.exe
+/Users/yousefali/Documents/SE2250B/lab-3-ysyed4-main/Lab3App/obj/Debug/Lab3App.pdb
